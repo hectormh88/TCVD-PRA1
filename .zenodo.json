@@ -1,0 +1,16 @@
+{
+  "title": "Dataset Webscraping AtomicHub",
+  "upload_type": "dataset",
+  "description": "Este dataset contiene información de assets en AtomicHub, generada mediante webscraping y API. Incluye datos como el código de asset, precios y otros datos relacionados. Contiene dos conjuntos de datos: uno generado mediante webscraping y otro con los datos disponibles mediante API.",
+  "creators": [
+    {
+      "name": "Martínez Joyeux, Jordi"
+    },
+    {
+      "name": "Martínez, Héctor"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "version": "1.0",
+  "publication_date": "2023-04-23"
+}
