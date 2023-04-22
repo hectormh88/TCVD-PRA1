@@ -1,26 +1,18 @@
 {
-  "title": "Dataset Webscraping AtomicHub",
-  "upload_type": "dataset",
-  "description": "Este dataset contiene información de assets en AtomicHub, generada mediante webscraping y API. Incluye datos como el código de asset, precios y otros datos relacionados. Contiene dos conjuntos de datos: uno generado mediante webscraping y otro con los datos disponibles mediante API.",
-  "creators": [
-    {
-      "name": "Martínez Joyeux, Jordi"
-    },
-    {
-      "name": "Martínez Hidalgo, Héctor"
-    }
-  ],
-  "license": "CC-BY-4.0",
-  "version": "1.0",
-  "publication_date": "2023-04-23",
-  "files": [
-    {
-      "path": "dataset/data-api.csv",
-      "type": "csv"
-    },
-    {
-      "path": "dataset/data-webscraping.csv",
-      "type": "csv"
-    }
-  ]
+  "metadata": {
+    "title": "Dataset Webscraping AtomicHub",
+    "upload_type": "dataset",
+    "description": "Este dataset ha sido generado mediante webscraping a la página de AtomicHub. Contiene datos como el código de asset o los precios. También contiene un dataset de los mismos assets con los datos disponibles mediante API.",
+    "creators": [
+      {
+        "name": "Martínez Joyeux, Jordi"
+      },
+      {
+        "name": "Martínez, Héctor"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "version": "1.0",
+    "publication_date": "2023-04-23"
+  }
 }
