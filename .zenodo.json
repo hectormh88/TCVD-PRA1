@@ -12,5 +12,15 @@
   ],
   "license": "CC-BY-4.0",
   "version": "1.0",
-  "publication_date": "2023-04-23"
+  "publication_date": "2023-04-23",
+  "files": [
+    {
+      "path": "dataset/data-api.csv",
+      "type": "csv"
+    },
+    {
+      "path": "dataset/data-webscraping.csv",
+      "type": "csv"
+    }
+  ]
 }
