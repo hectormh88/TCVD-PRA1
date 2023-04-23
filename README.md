@@ -23,3 +23,5 @@ La versión de Python utilizada fue la 3.11.
 Driver utilizado por la librería Selenium, necesario para ejecutar el código.
 
 ## DOI Zenodo
+
+10.5281/zenodo.7856463
