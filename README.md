@@ -24,4 +24,4 @@ Driver utilizado por la librería Selenium, necesario para ejecutar el código.
 
 ## DOI Zenodo
 
-10.5281/zenodo.7856463
+https://zenodo.org/record/7856463
